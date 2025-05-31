@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do código-fonte do meu site de portfólio pessoal! Este site foi criado para apresentar os meus projetos, competências e experiências.
 
-**Visite o site:** link aq
+**Visite o site:** https://atatassis.github.io/meuportfolio/
 
 ## Sobre o Projeto
 
